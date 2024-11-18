@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "private": true,
     "license": "MIT",
-    "description": "Huanfei's blog",
+    "description": "Istarry's blog",
     "scripts": {
         "build": "next build",
         "dev": "next dev",

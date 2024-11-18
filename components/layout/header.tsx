@@ -15,7 +15,7 @@ export default function Header() {
                 <Link href="/posts">文章</Link>
                 <a
                     aria-label="GitHub"
-                    href="https://github.com/huanfe1"
+                    href="https://github.com/istarry123"
                     target="_blank"
                     rel="noopener noreferrer external nofollow"
                 >
